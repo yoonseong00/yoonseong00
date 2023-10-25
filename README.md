@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=YS%20GitHub&fontSize=90&animation=blink)
 <h3 align="center">A passionate trainee in MultiCampus</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yoonseong&theme=github-dark-dimmed&locale=ko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yoonseong00&theme=github-dark-dimmed&locale=ko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoonseong&label=Profile%20views&color=0e75b6&style=flat" alt="yoonseong" /> </p>
 
